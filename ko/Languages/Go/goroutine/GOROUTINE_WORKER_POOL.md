@@ -150,3 +150,11 @@ func main() {
     - `go wp.ExecuteWorker(i)`로 worker 수 만큼 worker(goroutine)을 생성함
 - `Submit(task func())`
     - 외부에서 task를 `queuedTask`로 넣어주기 위한 함수
+
+
+## References
+
+- https://goperf.dev/01-common-patterns/worker-pool/
+- https://syafdia.medium.com/go-concurrency-pattern-worker-pool-a437117025b1
+- https://erfansahaf.medium.com/managing-goroutines-with-gouroutine-pooling-in-go-9b3596e23225
+- https://dev.to/zeedu_dev/worker-pool-design-pattern-explanation-3kil
