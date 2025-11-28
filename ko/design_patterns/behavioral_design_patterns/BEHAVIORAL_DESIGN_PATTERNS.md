@@ -8,4 +8,4 @@
 
 ## Contents
 
-- [Chain of Responsibility Design Pattern](./CHAIN_OF_RESPONSIBILITY_METHOD_DESIGN_PATTERN.md)
+- [Chain of Responsibility Design Pattern](./chain_of_responsibility_method_design_pattern/CHAIN_OF_RESPONSIBILITY_METHOD_DESIGN_PATTERN.md)
