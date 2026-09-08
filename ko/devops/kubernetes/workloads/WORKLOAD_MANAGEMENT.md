@@ -13,3 +13,4 @@
 ### Deployment (및 간접적으로 ReplicaSet)
 
 - [DEPLOYMENTS.md](./DEPLOYMENTS.md)에서 별도로 정리함
+- [REPLICASETS.md](./REPLICASETS.md)에서 별도로 정리함
