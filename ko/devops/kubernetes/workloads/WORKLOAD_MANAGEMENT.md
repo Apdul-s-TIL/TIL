@@ -14,3 +14,7 @@
 
 - [DEPLOYMENTS.md](./DEPLOYMENTS.md)에서 별도로 정리함
 - [REPLICASETS.md](./REPLICASETS.md)에서 별도로 정리함
+
+### StatefulSet
+
+- [STATEFULSETS.md](./STATEFULSETS.md)에서 별도로 정리함
