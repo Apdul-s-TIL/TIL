@@ -185,9 +185,13 @@ Addon은 쿠버네티스 기능을 확장함
 
 - [CONTAINER.md](./CONTAINER.md)에서 별도로 정리함
 
-## WORKLOADS
+## Workloads
 
 - [WORKLOADS.md](./WORKLOADS.md)에서 별도로 정리함
+
+## Services, Load Balancing, and Networking
+
+- [SERVICES_LOAD_BALANCING_NETWORKING.md](./SERVICES_LOAD_BALANCING_NETWORKING.md)에서 별도로 정리함
 
 ## References
 
